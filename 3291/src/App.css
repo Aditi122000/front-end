@@ -1,0 +1,1359 @@
+.homepage-rotaract-homepage-rotaract-wrapper {
+  background-color: 
+rgba(255, 255, 255, 1);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.homepage-rotaract-homepage-rotaract {
+  background: linear-gradient(
+    180deg,
+    
+rgb(1, 2, 8) 16.39%,
+    
+rgb(1, 2, 6) 20.51%,
+    
+rgb(4, 0, 8) 24.79%,
+    
+rgb(1, 1, 1) 30.46%,
+    
+rgb(1, 1, 1) 34.11%,
+    
+rgb(1, 1, 1) 36.21%,
+    
+rgb(1, 1, 1) 100%
+  );
+  background-color: 
+rgba(255, 255, 255, 1);
+  border: 1px none;
+  height: 3343px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.homepage-rotaract-overlap {
+  height: 7614px;
+  left: -522px;
+  position: relative;
+  top: -451px;
+  width: 2617px;
+}
+
+.homepage-rotaract-group {
+  height: 156px;
+  left: 689px;
+  position: absolute;
+  top: 1004px;
+  width: 302px;
+}
+
+.homepage-rotaract-img {
+  height: 129px;
+  left: 1156px;
+  position: absolute;
+  top: 3299px;
+  width: 173px;
+}
+
+.homepage-rotaract-rectangle {
+  -webkit-backdrop-filter: blur(25px) brightness(100%);
+  backdrop-filter: blur(25px) brightness(100%);
+  background-color: 
+#c4c4c4;
+  border-radius: 15px;
+  height: 453px;
+  left: 672px;
+  opacity: 0.2;
+  position: absolute;
+  top: 611px;
+  width: 1140px;
+}
+
+.homepage-rotaract-group-1 {
+  height: 7614px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 2617px;
+}
+
+.homepage-rotaract-overlap-group3 {
+  height: 7614px;
+  position: relative;
+}
+
+.homepage-rotaract-overlap-group2 {
+  height: 6296px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 2447px;
+}
+
+.homepage-rotaract-overlap-group1 {
+  height: 4783px;
+  left: 0;
+  position: absolute;
+  top: 1514px;
+  width: 1045px;
+}
+
+.homepage-rotaract-ellipse {
+  background: radial-gradient(50% 50% at 50% 50%, 
+rgba(247, 168, 27, 0.2) 0%, 
+rgba(247, 168, 27, 0) 100%);
+  border-radius: 522px/892.83px;
+  height: 1786px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1044px;
+}
+
+.homepage-rotaract-ellipse-10 {
+  background: radial-gradient(50% 50% at 50% 50%, rgba(24.4, 20, 240, 0.28) 0%, rgba(77.2, 20, 240, 0) 100%);
+  border-radius: 522px/892.83px;
+  height: 1786px;
+  left: 1px;
+  position: absolute;
+  top: 2997px;
+  width: 1044px;
+}
+
+.homepage-rotaract-ellipse-12 {
+  background: radial-gradient(50% 50% at 50% 50%, 
+rgba(1, 180, 231, 0.2) 0%, rgba(77.2, 20, 240, 0) 100%);
+  border-radius: 443px/756.84px;
+  height: 1514px;
+  left: 119px;
+  position: absolute;
+  top: 1493px;
+  width: 886px;
+}
+
+.homepage-rotaract-overlap-group {
+  height: 2308px;
+  left: 616px;
+  position: absolute;
+  top: 0;
+  width: 1831px;
+}
+
+.homepage-rotaract-ellipse-7 {
+  background: radial-gradient(50% 50% at 50% 50%, 
+rgba(217, 27, 92, 0.4) 0%, rgba(77.2, 20, 240, 0) 100%);
+  border-radius: 516px/883.54px;
+  height: 1767px;
+  left: 799px;
+  position: absolute;
+  top: 541px;
+  width: 1032px;
+}
+
+.homepage-rotaract-ellipse-8 {
+  background: radial-gradient(50% 50% at 50% 50%, 
+rgba(23, 69, 143, 0.55) 0%, 
+rgba(23, 69, 143, 0) 100%);
+  border-radius: 443px/756.84px;
+  height: 1514px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 886px;
+}
+
+.homepage-rotaract-ellipse-11 {
+  background: radial-gradient(50% 50% at 50% 50%, rgba(24.4, 20, 240, 0.28) 0%, rgba(77.2, 20, 240, 0) 100%);
+  border-radius: 522px/892.83px;
+  height: 1786px;
+  left: 1438px;
+  position: absolute;
+  top: 5828px;
+  width: 1044px;
+}
+
+.homepage-rotaract-ellipse-9 {
+  background: radial-gradient(50% 50% at 50% 50%, rgba(24.4, 20, 240, 0.28) 0%, rgba(77.2, 20, 240, 0) 100%);
+  border-radius: 516px/883.54px;
+  height: 1767px;
+  left: 1585px;
+  position: absolute;
+  top: 2534px;
+  width: 1032px;
+}
+
+.homepage-rotaract-ellipse-13 {
+  background: radial-gradient(50% 50% at 50% 50%, rgba(24.4, 20, 240, 0.28) 0%, rgba(77.2, 20, 240, 0) 100%);
+  border-radius: 443px/756.84px;
+  height: 1514px;
+  left: 1459px;
+  position: absolute;
+  top: 3913px;
+  width: 886px;
+}
+
+.homepage-rotaract-div {
+  -webkit-backdrop-filter: blur(25px) brightness(100%);
+  backdrop-filter: blur(25px) brightness(100%);
+  background-color: 
+#777777;
+  height: 633px;
+  left: 522px;
+  opacity: 0.2;
+  position: absolute;
+  top: 1154px;
+  width: 1440px;
+}
+
+.homepage-rotaract-ornament {
+  height: 150px;
+  left: 1657px;
+  position: absolute;
+  top: 1596px;
+  width: 155px;
+}
+
+.homepage-rotaract-ornament-76 {
+  height: 92px;
+  left: 1557px;
+  position: absolute;
+  top: 1199px;
+  width: 10px;
+}
+
+.homepage-rotaract-rectangle-6 {
+  height: 235px;
+  left: 1262px;
+  position: absolute;
+  top: 1199px;
+  width: 235px;
+}
+
+.homepage-rotaract-rectangle-10 {
+  height: 196px;
+  left: 1521px;
+  position: absolute;
+  top: 1252px;
+  width: 196px;
+}
+
+.homepage-rotaract-rectangle-11 {
+  height: 196px;
+  left: 1301px;
+  position: absolute;
+  top: 1458px;
+  width: 196px;
+}
+
+.homepage-rotaract-rectangle-9 {
+  height: 235px;
+  left: 1521px;
+  position: absolute;
+  top: 1472px;
+  width: 235px;
+}
+
+.homepage-rotaract-text-wrapper {
+  color: 
+#ffffff;
+  font-family: "Wizard World-Simplified", Helvetica;
+  font-size: 38px;
+  font-weight: 400;
+  left: 672px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1266px;
+}
+
+.homepage-rotaract-rotaract-district-organisation-RID-happens-to-be-the-largest-youth-organisation-that-is-active-in-the-city-of-kolkata-it-s-suburbs-with-active-and-running-clubs-with-a-membership-count-close-to-formed-in-after-it-was-redistricted-from-erstwhile-district-it-covers-kolkata-and-other-revenue-districts-of-southern-west-bengal-and-andaman-and-nicobar-islands-in-india {
+  color: 
+#dfe5f3;
+  font-family: "Magic Owl-PersonalUse", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 672px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 1332px;
+  width: 495px;
+}
+
+.homepage-rotaract-hello-there {
+  color: 
+#c4c4c4;
+  font-family: "Magic Owl-PersonalUse", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 672px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1225px;
+}
+
+.homepage-rotaract-text-wrapper-2 {
+  color: 
+#ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 36px;
+  font-weight: 700;
+  left: 672px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1560px;
+}
+
+.homepage-rotaract-text-wrapper-3 {
+  color: 
+#dfe5f3;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 683px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 1616px;
+}
+
+.homepage-rotaract-text-wrapper-4 {
+  color: 
+#ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 36px;
+  font-weight: 700;
+  left: 789px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1560px;
+}
+
+.homepage-rotaract-text-wrapper-5 {
+  color: 
+#dfe5f3;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 803px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 1616px;
+}
+
+.homepage-rotaract-text-wrapper-6 {
+  color: 
+#ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 36px;
+  font-weight: 700;
+  left: 938px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1560px;
+}
+
+.homepage-rotaract-text-wrapper-7 {
+  color: 
+#dfe5f3;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 956px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 1616px;
+}
+
+.homepage-rotaract-text-wrapper-8 {
+  color: 
+#ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 36px;
+  font-weight: 700;
+  left: 1099px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1560px;
+}
+
+.homepage-rotaract-text-wrapper-9 {
+  color: 
+#dfe5f3;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 1087px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 1616px;
+}
+
+.homepage-rotaract-group-2 {
+  height: 141px;
+  left: 1789px;
+  position: absolute;
+  top: 2923px;
+  width: 62px;
+}
+
+.homepage-rotaract-group-28 {
+  height: 241px;
+  left: 539px;
+  position: absolute;
+  top: 2526px;
+  width: 248px;
+}
+
+.homepage-rotaract-group-3 {
+  height: 156px;
+  left: 1555px;
+  position: absolute;
+  top: 2336px;
+  width: 302px;
+}
+
+.homepage-rotaract-mask-group {
+  height: 644px;
+  left: 1098px;
+  position: absolute;
+  top: 1787px;
+  width: 864px;
+}
+
+.homepage-rotaract-rectangle-27 {
+  background-color: 
+#000000;
+  height: 644px;
+  left: 1098px;
+  opacity: 0.8;
+  position: absolute;
+  top: 1787px;
+  width: 864px;
+}
+
+.homepage-rotaract-rectangle-3 {
+  background-color: 
+#f7a81b;
+  height: 644px;
+  left: 522px;
+  position: absolute;
+  top: 1787px;
+  width: 576px;
+}
+
+.homepage-rotaract-group-23 {
+  height: 115px;
+  left: 649px;
+  position: absolute;
+  top: 2283px;
+  width: 83px;
+}
+
+.homepage-rotaract-ornament-16 {
+  height: 83px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 19px;
+}
+
+.homepage-rotaract-ornament-71 {
+  height: 19px;
+  left: 0;
+  position: absolute;
+  top: 96px;
+  width: 83px;
+}
+
+.homepage-rotaract-text-wrapper-10 {
+  color: 
+#ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  left: 1287px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1993px;
+}
+
+.homepage-rotaract-p {
+  color: 
+#dfe5f3;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  left: 1287px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2029px;
+}
+
+.homepage-rotaract-rectangle-4 {
+  height: 534px;
+  left: 672px;
+  object-fit: cover;
+  position: absolute;
+  top: 1842px;
+  width: 545px;
+}
+
+.homepage-rotaract-text-wrapper-11 {
+  color: 
+#ffffff;
+  font-family: "Wizard World-Simplified", Helvetica;
+  font-size: 38px;
+  font-weight: 400;
+  left: 1287px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1920px;
+}
+
+.homepage-rotaract-know-our-leaders {
+  color: 
+#c4c4c4;
+  font-family: "Magic Owl-PersonalUse", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 1287px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1880px;
+}
+
+.homepage-rotaract-text-wrapper-12 {
+  color: 
+#ffffff;
+  font-family: "Wizard World-Simplified", Helvetica;
+  font-size: 38px;
+  font-weight: 400;
+  left: 672px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2539px;
+}
+
+.homepage-rotaract-text-wrapper-13 {
+  color: 
+#c4c4c4;
+  font-family: "Magic Owl-PersonalUse", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 672px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2499px;
+}
+
+.homepage-rotaract-we-channel-our-commitment-to-service-at-home-and-abroad-through-four-avenues-of-service-which-are-the-foundation-of-rotaract-club-activity {
+  color: 
+#c4c4c4;
+  font-family: "Magic Owl-PersonalUse", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 672px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2595px;
+}
+
+.homepage-rotaract-text-wrapper-14 {
+  color: 
+#c4c4c4;
+  font-family: "Magic Owl-PersonalUse", Helvetica;
+  font-size: 22px;
+  font-weight: 400;
+  left: 1287px;
+  letter-spacing: 0;
+  line-height: 33px;
+  position: absolute;
+  top: 2070px;
+  width: 509px;
+}
+
+.homepage-rotaract-frame {
+  align-items: center;
+  border: 1px solid;
+  border-color: 
+#ffffff;
+  border-radius: 1000000013848427855085568px;
+  display: flex;
+  gap: 10px;
+  height: 50px;
+  justify-content: center;
+  left: 1377px;
+  padding: 12px 63px;
+  position: absolute;
+  top: 2271px;
+  width: 50px;
+}
+
+.homepage-rotaract-arrow-right-outline {
+  height: 20px;
+  margin-left: -48px;
+  margin-right: -48px;
+  min-width: 20px;
+  position: relative;
+}
+
+.homepage-rotaract-frame-8189 {
+  align-items: center;
+  border: 1px solid;
+  border-color: 
+#ffffff;
+  border-radius: 1000000013848427855085568px;
+  display: flex;
+  gap: 10px;
+  height: 50px;
+  justify-content: center;
+  left: 1287px;
+  padding: 12px 63px;
+  position: absolute;
+  top: 2271px;
+  transform: rotate(180deg);
+  width: 50px;
+}
+
+.homepage-rotaract-arrow-right-outline-24 {
+  height: 20px;
+  margin-left: -48px;
+  margin-right: -48px;
+  min-width: 20px;
+  position: relative;
+  transform: rotate(-180deg);
+}
+
+.homepage-rotaract-rectangle-2 {
+  -webkit-backdrop-filter: blur(25px) brightness(100%);
+  backdrop-filter: blur(25px) brightness(100%);
+  background-color: 
+#c4c4c433;
+  border-radius: 15px 0px 0px 0px;
+  height: 347px;
+  left: 672px;
+  position: absolute;
+  top: 2646px;
+  width: 557px;
+}
+
+.homepage-rotaract-rectangle-28 {
+  -webkit-backdrop-filter: blur(25px) brightness(100%);
+  backdrop-filter: blur(25px) brightness(100%);
+  background-color: 
+#c4c4c433;
+  border-radius: 15px 0px 0px 0px;
+  height: 347px;
+  left: 672px;
+  position: absolute;
+  top: 3013px;
+  width: 557px;
+}
+
+.homepage-rotaract-text-wrapper-15 {
+  color: 
+#ffffff;
+  font-family: "Wizard World-Simplified", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  left: 715px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2776px;
+}
+
+.homepage-rotaract-text-wrapper-16 {
+  color: 
+#ffffff;
+  font-family: "Wizard World-Simplified", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  left: 714px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 3143px;
+}
+
+.homepage-rotaract-text-wrapper-17 {
+  color: 
+#c4c4c4;
+  font-family: "Magic Owl-PersonalUse", Helvetica;
+  font-size: 22px;
+  font-weight: 400;
+  left: 715px;
+  letter-spacing: 0;
+  line-height: 33px;
+  position: absolute;
+  top: 2836px;
+  width: 480px;
+}
+
+.homepage-rotaract-text-wrapper-18 {
+  color: 
+#c4c4c4;
+  font-family: "Magic Owl-PersonalUse", Helvetica;
+  font-size: 22px;
+  font-weight: 400;
+  left: 714px;
+  letter-spacing: 0;
+  line-height: 33px;
+  position: absolute;
+  top: 3198px;
+  width: 492px;
+}
+
+.homepage-rotaract-rectangle-5 {
+  -webkit-backdrop-filter: blur(25px) brightness(100%);
+  backdrop-filter: blur(25px) brightness(100%);
+  background-color: 
+#c4c4c433;
+  border-radius: 15px 0px 0px 0px;
+  height: 347px;
+  left: 1255px;
+  position: absolute;
+  top: 2646px;
+  transform: rotate(180deg);
+  width: 557px;
+}
+
+.homepage-rotaract-rectangle-29 {
+  -webkit-backdrop-filter: blur(25px) brightness(100%);
+  backdrop-filter: blur(25px) brightness(100%);
+  background-color: 
+#c4c4c433;
+  border-radius: 15px 0px 0px 0px;
+  height: 347px;
+  left: 1255px;
+  position: absolute;
+  top: 3013px;
+  transform: rotate(180deg);
+  width: 557px;
+}
+
+.homepage-rotaract-text-wrapper-19 {
+  color: 
+#ffffff;
+  font-family: "Wizard World-Simplified", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  left: 1300px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2776px;
+}
+
+.homepage-rotaract-text-wrapper-20 {
+  color: 
+#ffffff;
+  font-family: "Wizard World-Simplified", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  left: 1300px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 3143px;
+}
+
+.homepage-rotaract-text-wrapper-21 {
+  color: 
+#c4c4c4;
+  font-family: "Magic Owl-PersonalUse", Helvetica;
+  font-size: 22px;
+  font-weight: 400;
+  left: 1300px;
+  letter-spacing: 0;
+  line-height: 33px;
+  position: absolute;
+  top: 2836px;
+  width: 475px;
+}
+
+.homepage-rotaract-text-wrapper-22 {
+  color: 
+#c4c4c4;
+  font-family: "Magic Owl-PersonalUse", Helvetica;
+  font-size: 22px;
+  font-weight: 400;
+  left: 1300px;
+  letter-spacing: 0;
+  line-height: 33px;
+  position: absolute;
+  top: 3203px;
+  width: 475px;
+}
+
+.homepage-rotaract-ellipse-14 {
+  background-color: 
+#ffffff;
+  border-radius: 35px;
+  height: 70px;
+  left: 715px;
+  opacity: 0.3;
+  position: absolute;
+  top: 2683px;
+  width: 70px;
+}
+
+.homepage-rotaract-ellipse-15 {
+  background-color: 
+#ffffff;
+  border-radius: 35px;
+  height: 70px;
+  left: 1294px;
+  opacity: 0.3;
+  position: absolute;
+  top: 2683px;
+  width: 70px;
+}
+
+.homepage-rotaract-ellipse-16 {
+  background-color: 
+#ffffff;
+  border-radius: 35px;
+  height: 70px;
+  left: 715px;
+  opacity: 0.3;
+  position: absolute;
+  top: 3050px;
+  width: 70px;
+}
+
+.homepage-rotaract-ellipse-17 {
+  background-color: 
+#ffffff;
+  border-radius: 35px;
+  height: 70px;
+  left: 1294px;
+  opacity: 0.3;
+  position: absolute;
+  top: 3050px;
+  width: 70px;
+}
+
+.homepage-rotaract-social-community {
+  height: 40px;
+  left: 730px;
+  position: absolute;
+  top: 2698px;
+  width: 40px;
+}
+
+.homepage-rotaract-global-team {
+  height: 40px;
+  left: 730px;
+  position: absolute;
+  top: 3065px;
+  width: 40px;
+}
+
+.homepage-rotaract-group-4 {
+  height: 40px;
+  left: 1309px;
+  position: absolute;
+  top: 3065px;
+  width: 40px;
+}
+
+.homepage-rotaract-speaker {
+  height: 40px;
+  left: 1309px;
+  position: absolute;
+  top: 2698px;
+  width: 40px;
+}
+
+.homepage-rotaract-rectangle-7 {
+  height: 364px;
+  left: 522px;
+  object-fit: cover;
+  position: absolute;
+  top: 3430px;
+  width: 1440px;
+}
+
+.homepage-rotaract-text-wrapper-23 {
+  color: 
+#ffffff;
+  font-family: "Wizard World-Simplified", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 1001px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 3483px;
+}
+
+.homepage-rotaract-text-wrapper-24 {
+  color: 
+#ffffff;
+  font-family: "Wizard World-Simplified", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 1221px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 3483px;
+}
+
+.homepage-rotaract-about-us-rotary-rotaract-DRR-theme-annual-plan-district-council-house-of-presidents-clubs-downloads-leaderboard {
+  color: 
+#dedede;
+  font-family: "Montserrat", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 1001px;
+  letter-spacing: 0;
+  line-height: 25.2px;
+  position: absolute;
+  top: 3510px;
+}
+
+.homepage-rotaract-text-wrapper-25 {
+  color: 
+#ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-size: 12px;
+  font-weight: 600;
+  left: 1221px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 3510px;
+}
+
+.homepage-rotaract-text-wrapper-26 {
+  color: 
+#ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-size: 12px;
+  font-weight: 600;
+  left: 1221px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 3590px;
+}
+
+.homepage-rotaract-text-wrapper-27 {
+  color: 
+#ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 1221px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 3530px;
+}
+
+.homepage-rotaract-text-wrapper-28 {
+  color: 
+#ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 1221px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 3610px;
+  width: 210px;
+}
+
+.homepage-rotaract-text-wrapper-29 {
+  color: 
+#ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 1221px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 3550px;
+}
+
+.homepage-rotaract-text-wrapper-30 {
+  color: 
+#ffffff;
+  font-family: "Wizard World-Simplified", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 672px;
+  letter-spacing: 0;
+  line-height: 25.6px;
+  position: absolute;
+  top: 3551px;
+  white-space: nowrap;
+}
+
+.homepage-rotaract-text-wrapper-31 {
+  color: 
+#dedede;
+  font-family: "Wizard World-Simplified", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 672px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 3582px;
+}
+
+.homepage-rotaract-image {
+  height: 59px;
+  left: 672px;
+  object-fit: cover;
+  position: absolute;
+  top: 3473px;
+  width: 140px;
+}
+
+.homepage-rotaract-text-wrapper-32 {
+  color: 
+#ffffff;
+  font-family: "Wizard World-Simplified", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 1454px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 3482px;
+}
+
+.homepage-rotaract-rectangle-58 {
+  background-color: 
+#ffffff;
+  border-radius: 8px;
+  height: 60px;
+  left: 1453px;
+  opacity: 0.3;
+  position: absolute;
+  top: 3522px;
+  width: 359px;
+}
+
+.homepage-rotaract-text {
+  color: 
+#ffffff;
+  font-family: "Raleway", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 1469px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 3539px;
+  white-space: nowrap;
+}
+
+.homepage-rotaract-icon-instagram {
+  height: 20px;
+  left: 712px;
+  position: absolute;
+  top: 3637px;
+  width: 20px;
+}
+
+.homepage-rotaract-icon-facebook {
+  height: 20px;
+  left: 672px;
+  position: absolute;
+  top: 3637px;
+  width: 20px;
+}
+
+.homepage-rotaract-icon-linkedin {
+  height: 20px;
+  left: 752px;
+  position: absolute;
+  top: 3637px;
+  width: 20px;
+}
+
+.homepage-rotaract-youtube-fill {
+  height: 20px;
+  left: 792px;
+  position: absolute;
+  top: 3637px;
+  width: 20px;
+}
+
+.homepage-rotaract-mask-group-2 {
+  height: 453px;
+  left: 672px;
+  position: absolute;
+  top: 611px;
+  width: 1140px;
+}
+
+.homepage-rotaract-overlap-wrapper {
+  height: 100px;
+  left: 522px;
+  position: absolute;
+  top: 451px;
+  width: 1450px;
+}
+
+.homepage-rotaract-overlap-group4 {
+  border-bottom-style: solid;
+  border-bottom-width: 0.2px;
+  border-color: 
+#c4c4c4;
+  height: 100px;
+  position: relative;
+  width: 1440px;
+}
+
+.homepage-rotaract-frame-8184 {
+  align-items: center;
+  border: 0.5px solid;
+  border-color: 
+#ffffff;
+  border-radius: 4px;
+  display: flex;
+  gap: 10px;
+  height: 46px;
+  justify-content: center;
+  left: 1184px;
+  padding: 12px 63px;
+  position: absolute;
+  top: 27px;
+  width: 107px;
+}
+
+.homepage-rotaract-article-outline {
+  height: 20px;
+  margin-left: -47.5px;
+  min-width: 20px;
+  position: relative;
+}
+
+.homepage-rotaract-text-wrapper-33 {
+  color: 
+#ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -0.5px;
+  margin-left: -17.5px;
+  margin-right: -46.5px;
+  margin-top: -1.5px;
+  position: relative;
+  text-align: right;
+  width: fit-content;
+}
+
+.homepage-rotaract-text-wrapper-34 {
+  color: 
+#ffffff;
+  font-family: "Wizard World-Simplified", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 956px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 40px;
+}
+
+.homepage-rotaract-text-wrapper-35 {
+  color: 
+#ffffff;
+  font-family: "Wizard World-Simplified", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 1036px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 40px;
+}
+
+.homepage-rotaract-text-wrapper-36 {
+  color: 
+#ffffff;
+  font-family: "Wizard World-Simplified", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 866px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 40px;
+}
+
+.homepage-rotaract-text-wrapper-37 {
+  color: 
+#ffffff;
+  font-family: "Wizard World-Simplified", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 734px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 40px;
+}
+
+.homepage-rotaract-text-wrapper-38 {
+  color: 
+#ffffff;
+  font-family: "Wizard World-Simplified", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 626px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 40px;
+}
+
+.homepage-rotaract-image-1 {
+  height: 59px;
+  left: 150px;
+  object-fit: cover;
+  position: absolute;
+  top: 20px;
+  width: 140px;
+}
+
+.homepage-rotaract-group-5 {
+  height: 148px;
+  left: 1873px;
+  position: absolute;
+  top: 547px;
+  width: 89px;
+}
+
+.homepage-rotaract-h-1 {
+  color: 
+#ffffff;
+  font-family: "Wizard World-Simplified", Helvetica;
+  font-size: 40px;
+  font-weight: 400;
+  left: 904px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 708px;
+}
+
+.homepage-rotaract-text-wrapper-39 {
+  color: 
+#ffffff;
+  font-family: "Wizard World-Simplified", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  left: 972px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 766px;
+}
+
+.homepage-rotaract-kolkata-south-bengal-andamans {
+  color: 
+#ffffff;
+  font-family: "Wizard World-Simplified", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  left: 964px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 815px;
+}
+
+.homepage-rotaract-li-before {
+  height: 40px;
+  left: 1037px;
+  position: absolute;
+  top: 906px;
+  width: 29px;
+}
+
+.homepage-rotaract-li-before-2 {
+  height: 40px;
+  left: 1228px;
+  position: absolute;
+  top: 906px;
+  width: 29px;
+}
+
+.homepage-rotaract-li-before-3 {
+  height: 40px;
+  left: 1419px;
+  position: absolute;
+  top: 906px;
+  width: 29px;
+}
+
+.homepage-rotaract-FINAL-LOGO-ROTARY-WHITE-TRANSPARENT {
+  height: 38px;
+  left: 906px;
+  position: absolute;
+  top: 907px;
+  width: 100px;
+}
+
+.homepage-rotaract-FINAL-LOGO-ROTARY-WHITE-TRANSPARENT-2 {
+  height: 38px;
+  left: 1097px;
+  position: absolute;
+  top: 907px;
+  width: 100px;
+}
+
+.homepage-rotaract-FINAL-LOGO-ROTARY-WHITE-TRANSPARENT-3 {
+  height: 38px;
+  left: 1288px;
+  position: absolute;
+  top: 907px;
+  width: 100px;
+}
+
+.homepage-rotaract-FINAL-LOGO-ROTARY-WHITE-TRANSPARENT-4 {
+  height: 38px;
+  left: 1479px;
+  position: absolute;
+  top: 907px;
+  width: 100px;
+}
